@@ -8,7 +8,7 @@ function get_db()
     $mongo = new MongoDB\Client(
         "mongodb://localhost:27017/wai",
         [
-            'username' => 'wai_web',        // just examole username and login, which i used on my virtual machine
+            'username' => 'wai_web',        // just example username and login, which i used on my virtual machine
             'password' => 'w@i_w3b',
         ]);
 
