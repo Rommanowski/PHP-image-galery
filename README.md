@@ -1,5 +1,8 @@
 # PHP-image-galery
 
+Video demonstration:
+https://youtu.be/IgkU1HGC79c
+
 This project is a PHP-based photo gallery website that allows users to upload images to the server. Key features include:
 
 - **Thumbnail Generation**: Automatically creates thumbnails for uploaded photos, which are displayed in a paginated gallery.
